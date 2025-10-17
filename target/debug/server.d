@@ -1,1 +1,0 @@
-/Users/user/Desktop/lets_go/exam_service/target/debug/server: /Users/user/Desktop/lets_go/exam_service/build.rs /Users/user/Desktop/lets_go/exam_service/proto /Users/user/Desktop/lets_go/exam_service/proto/exam.proto /Users/user/Desktop/lets_go/exam_service/src/server.rs /Users/user/Desktop/lets_go/exam_service/target/debug/build/exam_service-737f6ebf3452c591/out/exam.rs

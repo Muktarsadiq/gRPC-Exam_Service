@@ -1,2 +1,0 @@
-request::Request<http_body_util::combinators::box_body::UnsyncBoxBody<prost::bytes::Bytes, Status>>
-ExamServiceServer: Service<request::Request<http_body_util::combinators::box_body::UnsyncBoxBody<prost::bytes::Bytes, Status>>>
